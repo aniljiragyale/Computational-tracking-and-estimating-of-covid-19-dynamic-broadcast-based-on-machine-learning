@@ -37,26 +37,7 @@ To design a system that:
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation
 
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/aniljiragyale/Computational-tracking-and-estimating-of-covid-19-dynamic-broadcast-based-on-machine-learning.git
-cd Computational-tracking-and-estimating-of-covid-19-dynamic-broadcast-based-on-machine-learning
-pip install -r requirements.txt
-▶️ How to Run
-Open the appropriate notebook in notebooks/ to test models individually.
-
-If you're running the Flask app:
-
-bash
-Copy
-Edit
-python app/app.py
-Then go to:
-http://localhost:5000 in your browser.
-
-📊 Output Examples
-Case prediction curves from ARIMA and LSTM
+om ARIMA and LSTM
 
 Actual vs predicted graphs
 
